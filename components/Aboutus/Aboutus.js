@@ -40,17 +40,17 @@ export default function Aboutus() {
                                         <img src="assets/img/startup/about/ab1.png" alt="" />
                                     </div>
                                     <div class="str-progress-area str-headline">
-                                        <h3>_______Buyer's Share</h3>
+                                        <h3>_______Buyer's Share (80%)</h3>
                                         <div id="progress1" class="barfiller">
                                             <div class="tipWrap"><span class="tip"></span></div>
                                             <span class="fill" data-percentage="80"></span>
                                         </div>
-                                        <h3>_______Affiliate's Share </h3>
+                                        <h3>_______Affiliate's Share (10%) </h3>
                                         <div id="progress2" class="barfiller">
                                             <div class="tipWrap"><span class="tip"></span></div>
                                             <span class="fill" data-percentage="10"></span>
                                         </div>
-                                        <h3>_______Company's Share</h3>
+                                        <h3>_______Company's Share (10%) </h3>
                                         <div id="progress3" class="barfiller">
                                             <div class="tipWrap"><span class="tip"></span></div>
                                             <span class="fill" data-percentage="10"></span>
