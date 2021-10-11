@@ -19,6 +19,20 @@ export default function HomeLayout({ children }) {
                 <link rel="shortcut icon" href="assets/img/fv.png" type="image/x-icon" />
                 <link rel="icon" href="assets/img/fv.png" type="image/x-icon" />
                 <meta name="description" content="mySharesPartners" />
+                <meta property="og:type" content="website" data-reactid="7" />
+    <meta property="og:site_name" content="voilk.com" data-reactid="8" />
+    <meta property="og:title" content="Voilk - Revenue sharing social network" data-reactid="9" />
+    <meta property="og:description"
+        content="Revenue sharing Social Network." data-reactid="10" />
+    <meta property="og:image" content="https://graphql.voilk.com/image/0ec65a8f0a0e9ec2482a0cc18d52501f.png"
+        data-reactid="11" />
+    <meta property="og:url" content="https://voilk.com" />
+    <meta property="fb:app_id" content="588295505354973" data-reactid="12" />
+    <meta name="twitter:card" content="summary" data-reactid="13" />
+    <meta name="twitter:site" content="@voilknetwork" data-reactid="14" />
+    <meta name="twitter:title" content="#voilk" data-reactid="15" />
+    <meta name="twitter:image" content="https://graphql.voilk.com/image/0ec65a8f0a0e9ec2482a0cc18d52501f.png"
+        data-reactid="16" />
                 <link rel="icon" href="/favicon.ico" />
                 <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
                 <link rel="stylesheet" href="/assets/css/animate.css" />
