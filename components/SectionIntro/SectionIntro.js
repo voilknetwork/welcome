@@ -8,7 +8,7 @@ export default function SectionIntro() {
                 <div className="col-md-12">
                     <div className="s2-banner_area relative-position">
                         <div className="s2-banner_content saas2-headline pera-content">
-                            <span className="s2-tilte_tag">Success is Yours</span>
+                            <span className="s2-tilte_tag">Sharing content made easy!</span>
                             <h1>The <span>Revenue Sharing</span> Social Network!</h1>
                             <p>Welcome to the best revenue sharing social network, Where you earn shares by creating/curating content and on each purchase made by your referrals.</p>
                             <div className="banner_btn">

@@ -6,7 +6,7 @@ export default function Services() {
         <div className="container">
             <div className="saas_two_section_title saas2-headline text-center">
                 <span className="title_tag">Tools and Services</span>
-                <h2><span>Helping you </span>succeed <span>is our </span>Mission.
+                <h2><span>Providing you </span>the best <span>tools and </span>Services.
          </h2>
             </div>
 

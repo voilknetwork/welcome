@@ -55,6 +55,8 @@ export default function Footer() {
                                     <li><a href="https://affiliates.voilk.com/withdraw"> Withdrawal</a></li>
                                     <li><a href="https://social.voilk.com/exchange"> Exchange</a></li>
                                     <li><a href="https://images.voilk.com"> Images</a></li>
+                                    <li><a href="https://explorer.voilk.com"> Explorer</a></li>
+                                    <li><a href="https://signup.voilk.com"> Register</a></li>
                                 </ul>
                             </div>
                         </div>
