@@ -23,7 +23,7 @@ export default function About() {
                                             </p>
                                             <p> When you create a post or a comment, it starts receiving likes 
                                                 from the community members, 
-                                                each like, depending upon the Liker's account's power is worth some shares. </p>
+                                                each like, depending upon the Liker's account's power is worth some voilk. </p>
                                             <a href="https://landing.voilk.com/welcome">More about Social Network </a>
                                         </div>
                                     </div>

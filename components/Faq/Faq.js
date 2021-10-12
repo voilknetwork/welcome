@@ -32,7 +32,7 @@ export default function Faq() {
                                         <div className="s2_faq">
                                             <div className="s2_faq-header" id="headingTwo">
                                                 <button className="collapsed" data-toggle="collapse" data-target="#collapseTwo">
-                                                    02. How can I activate a Shares Package?
+                                                    02. How can I activate a VOILK Package?
                                         </button>
                                             </div>
                                             <div id="collapseTwo" className="collapse" data-parent="#accordionExample">
@@ -82,24 +82,24 @@ export default function Faq() {
                                         <div className="s2_faq">
                                             <div className="s2_faq-header" id="heading6">
                                                 <button className="collapsed" data-toggle="collapse" data-target="#collapse6">
-                                                    06. What can I do with the Shares that I purchased?
+                                                    06. What can I do with the VOILK that I purchased?
                                     </button>
                                             </div>
                                             <div id="collapse6" className="collapse" data-parent="#accordionExample">
                                                 <div className="s2_faq-body">
-                                                    Shares can be exchanged against the dollars via the internal exchange market, or you can convert them into Power on the social network and increase your Likes' value, which lets you earn more Shares.
+                                                    VOILK can be exchanged against the dollars via the internal exchange market, or you can convert them into Power on the social network and increase your Likes' value, which lets you earn more VOILK.
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="s2_faq">
                                             <div className="s2_faq-header" id="heading7">
                                                 <button className="collapsed" data-toggle="collapse" data-target="#collapse7">
-                                                    07. Share Power can be converted back into shares?
+                                                    07. Share Power can be converted back into voilk?
                                     </button>
                                             </div>
                                             <div id="collapse7" className="collapse" data-parent="#accordionExample">
                                                 <div className="s2_faq-body">
-                                                    Yes, Share Power can be converted back into Shares but that takes 90 days to convert back. We strongly discourage powering down, instead you should use your power to help appreciate other people's content.
+                                                    Yes, Share Power can be converted back into VOILK but that takes 90 days to convert back. We strongly discourage powering down, instead you should use your power to help appreciate other people's content.
                                                 </div>
                                             </div>
                                         </div>

@@ -84,8 +84,8 @@ export default function Services() {
                                 </div>
                             </div>
                             <div className="service_text_box saas2-headline pera-content">
-                                <h3>Shares and $ Wallet</h3>
-                                <p>We provide you a digital wallet where you keep your shares. Which allows you to transfer and receive shares, to and from other users.</p>
+                                <h3>VOILK and $ Wallet</h3>
+                                <p>We provide you a digital wallet where you keep your voilk. Which allows you to transfer and receive voilk, to and from other users.</p>
                             </div>
                         </div>
                     </div>
@@ -120,7 +120,7 @@ export default function Services() {
                             </div>
                             <div className="service_text_box saas2-headline pera-content">
                                 <h3>Exchange Market</h3>
-                                <p>We have built an internal shares exchange market. Which helps users to trade their shares against the $ and speculate on the value of them.</p>
+                                <p>We have built an internal voilk exchange market. Which helps users to trade their voilk against the $ and speculate on the value of them.</p>
                             </div>
                         </div>
                     </div>

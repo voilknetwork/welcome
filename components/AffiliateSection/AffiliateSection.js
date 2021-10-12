@@ -14,7 +14,7 @@ export default function AffiliateSection() {
                                     </div>
                                     <div className="s2-feature_text_box saas2-headline pera-content">
                                         <h3>Activate a Plan</h3>
-                                        <p>Buying a Shares plan not just gets you Shares but also a partner Membership. Which comes with rewards </p>
+                                        <p>Buying a VOILK plan not just gets you VOILK but also a partner Membership. Which comes with rewards </p>
                                     </div>
                                 </div>
 
@@ -34,7 +34,7 @@ export default function AffiliateSection() {
                                     </div>
                                     <div className="s2-feature_text_box saas2-headline pera-content">
                                         <h3>Earn Commission</h3>
-                                        <p>When your customer buys a Shares package. You earn yourselves upto 50% of the commission</p>
+                                        <p>When your customer buys a VOILK package. You earn yourselves upto 50% of the commission</p>
                                     </div>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@ export default function AffiliateSection() {
                             <div className="s2-feature_left">
                                 <div className="s2-feature_text saas2-headline pera-content">
                                     <span className="feature_tag">Partnership Program </span>
-                                    <h2>Earn Shares by
+                                    <h2>Earn VOILK by
                             <span> Inviting Customers</span>
                                     </h2>
                                     <p>You invite a customer only once and everytime he/she activates a package you get upto 50% of the commission.</p>

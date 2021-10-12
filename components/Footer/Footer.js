@@ -72,7 +72,7 @@ export default function Footer() {
                                 </p>
                                 <br />
 
-                                <p>A social network where you earn shares by posting and curating content, and by bringing customers to the project.</p>
+                                <p>A social network where you earn voilk by posting and curating content, and by bringing customers to the project.</p>
                                 <br />
                                 <a href="https://web.facebook.com/voilknetwork/"><i className="fb-bg fab fa-facebook-f "></i></a>
                                 <a href="https://twitter.com/voilknetwork"><i className="tw-bg fab fa-twitter"></i></a>

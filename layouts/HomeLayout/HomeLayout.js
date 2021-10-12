@@ -18,7 +18,7 @@ export default function HomeLayout({ children }) {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="shortcut icon" href="assets/img/fv.png" type="image/x-icon" />
                 <link rel="icon" href="assets/img/fv.png" type="image/x-icon" />
-                <meta name="description" content="mySharesPartners" />
+                <meta name="description" content="Voilk is a revenue sharing social network." />
                 <meta property="og:type" content="website" data-reactid="7" />
     <meta property="og:site_name" content="voilk.com" data-reactid="8" />
     <meta property="og:title" content="Voilk - Revenue sharing social network" data-reactid="9" />

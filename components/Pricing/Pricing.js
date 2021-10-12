@@ -6,10 +6,10 @@ export default function Pricing() {
         <div className="container">
             <div className="saas_two_section_title saas2-headline text-center">
                 <span className="title_tag">
-                    Shares Packages
+                    VOILK Packages
         </span>
-                <h2> Our best Shares Plans!</h2>
-                <p> Every time you activate a package, You Get some Shares and Your invitation limit increases. </p>
+                <h2> Our best VOILK Plans!</h2>
+                <p> Every time you activate a package, You Get some VOILK and Your invitation limit increases. </p>
             </div>
 
             <div className="s2-pricing_content">
@@ -46,7 +46,7 @@ export default function Pricing() {
                             
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                0 Shares
+                                0 VOILK
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
@@ -93,15 +93,15 @@ export default function Pricing() {
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                40 Shares to you
+                                40 VOILK to you
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                5 Shares to Promoter
+                                5 VOILK to Promoter
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                5 Shares to Company
+                                5 VOILK to Company
                             </li>
                                     <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
@@ -142,15 +142,15 @@ export default function Pricing() {
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                80 Shares to you
+                                80 VOILK to you
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                10 Shares to Promoter
+                                10 VOILK to Promoter
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                10 Shares to Company
+                                10 VOILK to Company
                             </li>
                                     <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
@@ -189,15 +189,15 @@ export default function Pricing() {
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                80 Shares to you
+                                80 VOILK to you
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                10 Shares to Promoter
+                                10 VOILK to Promoter
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                10 Shares to Company
+                                10 VOILK to Company
                             </li>
                                     <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
@@ -245,15 +245,15 @@ export default function Pricing() {
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                400 Shares to you
+                                400 VOILK to you
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                50 Shares to Promoter
+                                50 VOILK to Promoter
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                50 Shares to Company
+                                50 VOILK to Company
                             </li>
                                     <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
@@ -293,15 +293,15 @@ export default function Pricing() {
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                800 Shares to you
+                                800 VOILK to you
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                100 Shares to Promoter
+                                100 VOILK to Promoter
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                100 Shares to Company
+                                100 VOILK to Company
                             </li>
                                     <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
@@ -340,15 +340,15 @@ export default function Pricing() {
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                4000 Shares to you
+                                4000 VOILK to you
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                500 Shares to Promoter
+                                500 VOILK to Promoter
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                500 Shares to Company
+                                500 VOILK to Company
                             </li>
                                     <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
@@ -394,15 +394,15 @@ export default function Pricing() {
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                8000 Shares to you
+                                8000 VOILK to you
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                1000 Shares to Promoter
+                                1000 VOILK to Promoter
                             </li>
                             <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                1000 Shares to Company
+                                1000 VOILK to Company
                             </li>
                                     <li>
                                         <div className="s2-pricing_list_icon s2-checked float-left text-center"></div>

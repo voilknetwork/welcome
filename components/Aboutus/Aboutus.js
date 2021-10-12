@@ -15,15 +15,15 @@ export default function Aboutus() {
                                     <h2>Revenue Sharing Social Platform.</h2>
                                 </div>
                                 <div class="str-about-textarea">
-                                    We at voilk brought you the best tools and services to help you earn shares(VOILK) by sharing content and by bringing customers.
+                                    We at voilk brought you the best tools and services to help you earn voilk(VOILK) by sharing content and by bringing customers.
                                 </div>
                                 <div class="str-about-details">
-                                    Voilk is a revenue sharing social network, where you earn shares by two ways and you can choose both of them if you want to.
+                                    Voilk is a revenue sharing social network, where you earn voilk by two ways and you can choose both of them if you want to.
                                 </div>
                                 <div class="str-about-list ul-li-block">
                                     <ul>
-                                        <li>Our Powerfull Social platform lets you earn Shares by creating and curating content.</li>
-                                        <li>Our Affiliate Network lets your earn Shares, when you invite customers to the platfrom.</li>
+                                        <li>Our Powerfull Social platform lets you earn VOILK by creating and curating content.</li>
+                                        <li>Our Affiliate Network lets your earn VOILK, when you invite customers to the platfrom.</li>
                                         <li>* Only one account is sufficient for both applications.</li>
 
                                     </ul>
