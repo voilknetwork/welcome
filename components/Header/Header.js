@@ -22,7 +22,7 @@ export default function Header() {
                                             </ul>
                                         </nav>
                                         <div className="saas_sign_up_btn text-center">
-                                            <a href="https://signup.voilk.com/register"> Generate Account</a>
+                                            <a href="https://signup.voilk.com/register"> Join!</a>
                                         </div>
                                     </div>
                                 </div>
