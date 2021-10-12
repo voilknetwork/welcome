@@ -18,7 +18,7 @@ export default function About() {
                                         </div>
                                         <div className="s2-about_text saas2-headline pera-content">
                                             <h3>Content Sharing.</h3>
-                                            <p> Share content and Earn Mining Rewards via our social Network 
+                                            <p> Share content and earn Mining Rewards via our social Network 
                                                 Platform.
                                             </p>
                                             <p> When you create a post or a comment, it starts receiving likes 

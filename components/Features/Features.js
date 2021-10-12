@@ -11,15 +11,15 @@ export default function Features() {
                         <div className="s2-feature_left">
                             <div className="s2-feature_text saas2-headline pera-content">
                                 <span className="feature_tag">Social Reward Network </span>
-                                <h2>Earn Shares by
+                                <h2>Earn VOILK by
                             <span> Sharing Content</span>
                                 </h2>
                                 <p>If you love to share content, our social platform is built just for you. 
-                                    Earn shares by creating and curating content.</p>
+                                    Earn VOILK by creating and curating content.</p>
                                 <p>
                                     We provide you a cool basic editor, 
                                     which you can use to create and publish a post. 
-                                    We also have an image hosting service so that you can add photos to your posts
+                                    75% of the post reward goes to the content creator.
                                 </p>
 
                                 <div className="saas_btn">
@@ -38,7 +38,7 @@ export default function Features() {
                                 <div className="s2-feature_text_box saas2-headline pera-content">
                                     <h3>Create a Post</h3>
                                     <p>Create stunning, effective and engaging posts. 
-                                        to get the likes from the community. That's how you earn the Shares</p>
+                                        to get the likes from the community. That's how you earn the VOILK</p>
                                 </div>
                             </div>
 
