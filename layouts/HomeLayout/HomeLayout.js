@@ -2,17 +2,25 @@ import React from 'react'
 import { Footer, Header } from '../../components'
 import Head from 'next/head'
 import Script from 'next/script'
-import {useRef, useEffect} from "react"
+import { useRef, useEffect } from "react"
 
 export default function HomeLayout({ children }) {
-  const myRef = useRef(null)
-
-  useEffect(() => {
-      myRef.current.remove();
-  }, [])  
+    const myRef = useRef(null)
+    function add_chatinline(){
+        var hccid=60193217;
+        var nt=document.createElement("script");
+        nt.async=true;
+        nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;
+        var ct=document.getElementsByTagName("script")[0];
+        ct.parentNode.insertBefore(nt,ct);
+    }
+    useEffect(() => {
+        myRef.current.remove();
+        add_chatinline()
+    }, [])
     return (
         <>
-                    <Head>
+            <Head>
                 <title>Voilk.com - The best Revenue Sharing platform</title>
                 <meta charSet="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,26 +28,26 @@ export default function HomeLayout({ children }) {
                 <link rel="icon" href="assets/img/fv.png" type="image/x-icon" />
                 <meta name="description" content="Voilk is a revenue sharing social network." />
                 <meta property="og:type" content="website" data-reactid="7" />
-    <meta property="og:site_name" content="voilk.com" data-reactid="8" />
-    <meta property="og:title" content="Voilk - Revenue sharing social network" data-reactid="9" />
-    <meta property="og:description"
-        content="Revenue sharing Social Network." data-reactid="10" />
-    <meta property="og:image" content="https://graphql.voilk.com/image/0ec65a8f0a0e9ec2482a0cc18d52501f.png"
-        data-reactid="11" />
-    <meta property="og:url" content="https://voilk.com" />
-    <meta property="fb:app_id" content="588295505354973" data-reactid="12" />
-    <meta name="twitter:card" content="summary" data-reactid="13" />
-    <meta name="twitter:site" content="@voilknetwork" data-reactid="14" />
-    <meta name="twitter:title" content="#voilk" data-reactid="15" />
-    <meta name="twitter:image" content="https://graphql.voilk.com/image/0ec65a8f0a0e9ec2482a0cc18d52501f.png"
-        data-reactid="16" />
+                <meta property="og:site_name" content="voilk.com" data-reactid="8" />
+                <meta property="og:title" content="Voilk - Revenue sharing social network" data-reactid="9" />
+                <meta property="og:description"
+                    content="Revenue sharing Social Network." data-reactid="10" />
+                <meta property="og:image" content="https://graphql.voilk.com/image/0ec65a8f0a0e9ec2482a0cc18d52501f.png"
+                    data-reactid="11" />
+                <meta property="og:url" content="https://voilk.com" />
+                <meta property="fb:app_id" content="588295505354973" data-reactid="12" />
+                <meta name="twitter:card" content="summary" data-reactid="13" />
+                <meta name="twitter:site" content="@voilknetwork" data-reactid="14" />
+                <meta name="twitter:title" content="#voilk" data-reactid="15" />
+                <meta name="twitter:image" content="https://graphql.voilk.com/image/0ec65a8f0a0e9ec2482a0cc18d52501f.png"
+                    data-reactid="16" />
                 <link rel="icon" href="/favicon.ico" />
                 <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
                 <link rel="stylesheet" href="/assets/css/animate.css" />
                 <link rel="stylesheet" href="/assets/css/fontawesome-all.css" />
                 <link rel="stylesheet" href="/assets/css/owl.carousel.css" />
                 <link rel="stylesheet" href="/assets/css/style.css" />
-                
+
             </Head>
             <>
                 <div id="preloader" ref={myRef} className="saas-classic-preloader"></div>
@@ -64,6 +72,6 @@ export default function HomeLayout({ children }) {
                 <Script strategy="beforeInteractive" src="/assets/js/parallax-scroll.js" />
                 <Script strategy="beforeInteractive" src="/assets/js/jquery.mCustomScrollbar.concat.min.js" />
             </>
-      </>
+        </>
     )
 }
