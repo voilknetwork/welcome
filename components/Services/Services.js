@@ -44,7 +44,7 @@ export default function Services() {
                                 </div>
                             </div>
                             <div className="service_text_box saas2-headline pera-content">
-                            <a href="https://affiliates.voilk.com"><h3>
+                            <a href="https://affiliates.voilk.com/signin"><h3>
                                     Affiliates Network
                                 </h3></a>
                                 <p>Whether you are a beginner or a professional. 

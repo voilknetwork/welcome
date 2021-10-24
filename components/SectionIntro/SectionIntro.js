@@ -10,11 +10,11 @@ export default function SectionIntro() {
                         <div className="s2-banner_content saas2-headline pera-content">
                             <span className="s2-tilte_tag">Sharing content made easy!</span>
                             <h1>The <span>Revenue Sharing</span> Social Network!</h1>
-                            <p>Welcome to the best revenue sharing social network, Where you earn voilk by creating/curating content and on each purchase made by your referrals.</p>
+                            <p>Where you can earn VOILK cryptocurrency by creating and curating blog posts and earn commissions on your referrals' purchases</p>
                             <div className="banner_btn">
-                                <a href="https://register.voilk.com/register"><i className="fas fa-user"></i> Register!</a>
+                                <a href="https://signup.voilk.com/register"><i className="fas fa-user"></i> Register!</a>
                                 <a href="/login"><i className="fas fa-sign-in-alt"></i> Login</a>
-                                <span>We share upto 50% commission on each purchase that your referral makes!</span>
+                                <span>Create a post, get likes on it, earn VOILK cryptocurrency!</span>
                             </div>
                         </div>
                         <div className="banner_mockup">
