@@ -24,7 +24,7 @@ export default function AffiliateSection() {
                                     </div>
                                     <div className="s2-feature_text_box saas2-headline pera-content">
                                         <h3>Invite Customers</h3>
-                                        <p>With free membership, you can invite a maximum of 10 customers and earn upto 50% of their purchases for lifetime.</p>
+                                        <p>With free membership, you can invite a maximum of 10 customers and earn upto 10% of their purchases for a lifetime.</p>
                                     </div>
                                 </div>
 
@@ -34,7 +34,7 @@ export default function AffiliateSection() {
                                     </div>
                                     <div className="s2-feature_text_box saas2-headline pera-content">
                                         <h3>Earn Commission</h3>
-                                        <p>When your customer buys a VOILK package. You earn yourselves upto 50% of the commission</p>
+                                        <p>When your customer buys a VOILK package. You earn yourselves upto 10% as commission</p>
                                     </div>
                                 </div>
                             </div>
@@ -47,7 +47,7 @@ export default function AffiliateSection() {
                                     <h2>Earn VOILK by
                             <span> Inviting Customers</span>
                                     </h2>
-                                    <p>You invite a customer only once and everytime he/she activates a package you get upto 50% of the commission.</p>
+                                    <p>You invite a customer only once and everytime he/she activates a package you get upto 10% as commission.</p>
                                     <p>
                                         We provide you an affiliate network, which has the right tools you need
                                          to bring customers to the platform, you can track how much commission you have earned and cash it out from the same spot.

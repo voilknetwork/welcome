@@ -11,11 +11,12 @@ export default function SectionIntro() {
                             <span className="s2-tilte_tag">Share content earn rewards!</span>
                             <h1>The <span>Revenue Sharing</span> Social Network!</h1>
                             <ul>
-                                <li>Create a post on our social platform </li>
-                                <li>Get likes to it </li>
-                                <li>Earn cryptocurrency called VOILK </li>
-                                <li>Trade VOILKs against the ($) via internal market </li>
-                                <li>Cashout your earnings via affiliates platform </li>
+                                <li>Are you a content creator? </li>
+                                <li>Are you a curator? </li>
+                                <li>Are you an investor? </li>
+                                <li>Are you a trader? </li>
+                                <li>Are you a promoter?</li>
+                                <li>Take any of these roles and start earning today!</li>
                             </ul>
                             <div className="banner_btn">
                                 <a href="https://signup.voilk.com/register"><i className="fas fa-user"></i> Register!</a>

@@ -49,7 +49,7 @@ export default function Services() {
                                 </h3></a>
                                 <p>Whether you are a beginner or a professional. 
                                     We have the right tools that you can use to invite customers and 
-                                    earn upto 50% commission/sale.</p>
+                                    earn upto 10% commission/sale.</p>
 
                             
                             </div>

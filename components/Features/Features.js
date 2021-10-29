@@ -44,21 +44,22 @@ export default function Features() {
 
                             <div className="s2-feature_list s2-purple wow fadeFromUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                                 <div className="s2-feature_icon text-center relative-position">
-                                <i class="fas fa-comment"></i>
+                                <i class="fas fa-thumbs-up"></i>
                                 </div>
                                 <div className="s2-feature_text_box saas2-headline pera-content">
-                                    <h3>Comment on a post</h3>
-                                    <p>When you find a post that's interesting. Drop a comment, your comment also can receive likes</p>
+                                    <h3>Get Likes</h3>
+                                    <p>When you create a post, a curator with his voting power likes your post and direct some rewards to it. 
+                                        Curator also earns by curating</p>
                                 </div>
                             </div>
 
                             <div className="s2-feature_list s2-pink wow fadeFromUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div className="s2-feature_icon text-center relative-position">
-                                <i class="fas fa-thumbs-up"></i>
+                                <i class="fas fa-dollar-sign"></i>
                                 </div>
                                 <div className="s2-feature_text_box saas2-headline pera-content">
-                                    <h3>Like a Post</h3>
-                                    <p>Liking a post gets you curation rewards. Post rewards are split by 75/25 and 25% of it goes to the curators like you.</p>
+                                    <h3>Earn a Reward</h3>
+                                    <p>Post receives likes for seven days. Post rewards are split by 75/25. 75% of it goes to you and 25% to everyone who liked it.</p>
                                 </div>
                             </div>
 
