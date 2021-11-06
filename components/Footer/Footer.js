@@ -32,7 +32,7 @@ export default function Footer() {
                                     <img src="assets/img/saas-c/logo/f-logo.png" alt="" />
                                 </div>
                                 <div className="footer_about">
-                                    Voilk with it's powerful tools can help you succeed. So take a step to join and start working.
+                                    Voilk with it's powerful tools can help you earn money, whether you are a content creator, curator, investor, trader or a promoter.
                         </div>
                                 <span>Contact us: </span>
                                 <p>
@@ -53,7 +53,7 @@ export default function Footer() {
                                     <li><a href="https://affiliates.voilk.com"> Affiliates</a></li>
                                     <li><a href="https://affiliates.voilk.com/deposit"> Deposit</a></li>
                                     <li><a href="https://affiliates.voilk.com/withdraw"> Withdrawal</a></li>
-                                    <li><a href="https://social.voilk.com/exchange"> Exchange</a></li>
+                                    <li><a href="https://social.voilk.com/market"> Market</a></li>
                                     <li><a href="https://images.voilk.com"> Images</a></li>
                                     <li><a href="https://explorer.voilk.com"> Explorer</a></li>
                                     <li><a href="https://signup.voilk.com"> Register</a></li>
