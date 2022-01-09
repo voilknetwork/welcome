@@ -8,7 +8,7 @@ export default function SectionIntro() {
                 <div className="col-md-12">
                     <div className="s2-banner_area relative-position">
                         <div className="s2-banner_content saas2-headline pera-content">
-                            <span className="s2-tilte_tag">Share content earn rewards!</span>
+                            <span className="s2-tilte_tag">Share Content and have Fun!</span>
                             <h1>Voilk is a <span>Caring and Sharing</span> Platform!</h1>
                             <ul>
                                 <li>Are you a Content Creator? </li>
@@ -16,7 +16,7 @@ export default function SectionIntro() {
                                 <li>Are you a Investor? </li>
                                 <li>Are you a Trader? </li>
                                 <li>Are you a Promoter?</li>
-                                <li>Join us and earn VOILK cryptocurrency!</li>
+                                <li>We have the right tools to help you earn VOILK cryptocurrency!</li>
                             </ul>
                             <div className="banner_btn">
                                 <a href="https://signup.voilk.com/register"><i className="fas fa-user"></i> Register!</a>
