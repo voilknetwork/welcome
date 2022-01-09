@@ -9,19 +9,19 @@ export default function SectionIntro() {
                     <div className="s2-banner_area relative-position">
                         <div className="s2-banner_content saas2-headline pera-content">
                             <span className="s2-tilte_tag">Share content earn rewards!</span>
-                            <h1>Voilk is <span>Caring and Sharing</span> Platform!</h1>
+                            <h1>Voilk is a <span>Caring and Sharing</span> Platform!</h1>
                             <ul>
-                                <li>Can you Create Posts? </li>
-                                <li>Can you like Posts? </li>
-                                <li>Can you invest money? </li>
-                                <li>Can you Buy and Sell? </li>
-                                <li>Can you Bring more people?</li>
-                                <li>If yes? You can earn VOILK cryptocurrency!</li>
+                                <li>Are you a Content Creator? </li>
+                                <li>Are you a Curator? </li>
+                                <li>Are you a Investor? </li>
+                                <li>Are you a Trader? </li>
+                                <li>Are you a Promoter?</li>
+                                <li>Join us and earn VOILK cryptocurrency!</li>
                             </ul>
                             <div className="banner_btn">
                                 <a href="https://signup.voilk.com/register"><i className="fas fa-user"></i> Register!</a>
                                 <a href="/login"><i className="fas fa-sign-in-alt"></i> Login</a>
-                                <span>* Invite a user under your reference and earn commission in VOILK!</span>
+                                <span>* Voice + Talk = Voilk :) simple hunh</span>
                             </div>
                         </div>
                         <div className="banner_mockup">
