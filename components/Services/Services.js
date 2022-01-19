@@ -23,7 +23,7 @@ export default function Services() {
                                 </div>
                             </div>
                             <div className="service_text_box saas2-headline pera-content">
-                                <a href="https://social.voilk.com"><h3>
+                                <a href="https://beta.voilk.com"><h3>
                                     Social Network
                                 </h3></a>
                                 <p>A place to hangout for the community. Where you can share content, 
