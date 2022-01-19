@@ -13,7 +13,7 @@ export default function SectionIntro() {
                             <ul>
                                 <li>Are you a Content Creator? </li>
                                 <li>Are you a Curator? </li>
-                                <li>Are you a Investor? </li>
+                                <li>Are you an Investor? </li>
                                 <li>Are you a Trader? </li>
                                 <li>Are you a Promoter?</li>
                                 <li>We have the right tools to help you earn VOILK cryptocurrency!</li>
